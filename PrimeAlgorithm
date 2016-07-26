@@ -1,3 +1,14 @@
+/*
+Name: Akin
+File: PrimeAlgorithm.cpp
+Date: July, 26, 2016
+Tale: This c++ program determines whether
+a given integer number greater than 1
+is prime or not. The primality methods achieves
+this with a time complexity better than 0(n).
+Input: T is the number of integers to be tested.
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
